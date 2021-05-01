@@ -1,8 +1,12 @@
-h1	{font-family: serif;
-	text-align: center;}
+h1	{
+	font-family: serif;
+	text-align: center;
+}
 
-h3	{font-family: georgia;
-	color: navy;}
+h3	{
+	font-family: georgia;
+	color: navy;
+}
 
 body	{
 		font-family: "Palatino Linotype"; 
